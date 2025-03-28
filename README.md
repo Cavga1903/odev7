@@ -12,6 +12,26 @@ Terminalden kullanıcı girdisi alarak:
 
 ---
 
+
+## Çalıştırma Komutları:
+
+📌 Yeni Not Ekleme:
+node index.js ekle "Yeni bir not eklendi!"
+
+📌 Tüm Notları Listeleme:
+node index.js listele
+
+📌 Belirli Bir Notu Silme (ID ile):
+node index.js sil 2
+
+📌 Beklenen Çıktı (Listeleme):
+1 - Bu benim ilk Node.js dosyam!
+2 - Merhaba, bu bir test mesajıdır!
+
+📌 Not: "sil 2" komutu çalıştırıldığında ID'si 2 olan veri silinir ve dosyaya yeni hali kaydedilir.
+
+---
+
 ##  Kurulum
 
 Node.js yüklü değilse [https://nodejs.org](https://nodejs.org) adresinden yükleyin.
