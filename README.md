@@ -55,8 +55,8 @@ touch index.js
 
 # (Opsiyonel) package.json oluşturmak için
 npm init -y
-
-
+```
+---
 
 ## **📌 Örnek Çalışma**  
 **1️⃣ Yeni Not Ekleme**  
