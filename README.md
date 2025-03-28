@@ -32,6 +32,14 @@ node index.js sil 2
 
 ---
 
+
+## Ekran Çıktısı:
+
+![Uygulama Ekran Görüntüsü](output.png)
+
+
+---
+
 ##  Kurulum
 
 Node.js yüklü değilse [https://nodejs.org](https://nodejs.org) adresinden yükleyin.
